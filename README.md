@@ -26,3 +26,8 @@ Complete the tasks below:
 - All columns named name should be of type VARCHAR
 - Each primary key column should follow the naming convention table_name_id. For example, the moon table should have a primary key column named moon_id
 - Each foreign key column should have the same name as the column it is referencing
+
+-------------------------------------
+This repository contains 2 files:
+- universe.sql : code that's been generated in the workspace for submission on Freecodecamp;
+- universe-preperation.sql : my own input code from which universe.sql has been generated.
