@@ -1,5 +1,6 @@
 # FCC_Celestial_Bodies_Database
-FreeCodeCamp SQL project: Build a Celestial Bodies Database 
+FreeCodeCamp SQL project: Build a Celestial Bodies Database.
+
 Part of the Relational Database course, which can be found at: https://www.freecodecamp.org/learn/relational-database/
 
 Complete the tasks below: 
