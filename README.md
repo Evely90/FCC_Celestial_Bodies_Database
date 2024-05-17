@@ -3,6 +3,7 @@ FreeCodeCamp SQL project: Build a Celestial Bodies Database.
 
 Part of the Relational Database course, which can be found at: https://www.freecodecamp.org/learn/relational-database/
 
+# Instructions:
 Complete the tasks below: 
 - You should create a database named universe
 - Be sure to connect to your database with \c universe. Then, you should add tables named galaxy, star, planet, and moon
